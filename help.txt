@@ -1,0 +1,4 @@
+bun run dev
+bun install [PACKAGE_NAME]
+bun uninstall [PACKAGE_NAME]
+^^^ Commands to ball out
